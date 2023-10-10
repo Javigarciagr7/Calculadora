@@ -1,3 +1,6 @@
+//JAVIER GARCÍA
+// https://github.com/Javigarciagr7/Calculadora.git
+
 function addToDisplay(value) {
     document.getElementById('display').value += value;
 }
